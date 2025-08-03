@@ -50,7 +50,7 @@ Para explotar esta vulnerabilidad, en lugar de un ID numérico, se introduce el 
 ' OR '1'='1' --
 ```
 
-![Ejemplo de Inyección SQL en DVWA](CAPTURA_DE_PANTALLA)
+![Ejemplo de Inyección SQL en DVWA](https://github.com/ualia946/dvwa-sqli-writeup/blob/main/images/sql-payload.png)
 
 #### Análisis de la Consulta Manipulada
 
